@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "349583769793",
+    "firebase_url": "https://visitorapp-971c5.firebaseio.com",
+    "project_id": "visitorapp-971c5",
+    "storage_bucket": "visitorapp-971c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349583769793:android:c5c1bb3835d70c5b",
+        "android_client_info": {
+          "package_name": "com.visitorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349583769793-c73h0r0220fffrbqlhstbcj3avjh8tll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTYusFcSic3y7cIY7tsyu5tGOA7LBKoFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349583769793-c73h0r0220fffrbqlhstbcj3avjh8tll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
